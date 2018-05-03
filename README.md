@@ -6,6 +6,7 @@
 
 Given a PDF-file mockup of a website from a designer, translate it to a real website using your HTML and CSS skills. Develop a responsive website that will display images, descriptions and links.
 
+[design-mockup-portfolio.pdf](design-mockup-portfolio.pdf)
 ### Additional resources
 
 Here are some tools you will find useful in checking your work.
